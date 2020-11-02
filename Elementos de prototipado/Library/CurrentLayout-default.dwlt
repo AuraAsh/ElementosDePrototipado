@@ -176,7 +176,7 @@ MonoBehaviour:
   m_MinSize: {x: 1052, y: 271}
   m_MaxSize: {x: 26008, y: 10021}
   vertical: 0
-  controlID: 89
+  controlID: 36
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -487,23 +487,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4a11ffff
-      m_LastClickedID: -61110
-      m_ExpandedIDs: 0e11ffff9a41ffffca41ffffc6f0fffff6f0ffff4cfbffff
+      m_SelectedIDs: c8f9ffff
+      m_LastClickedID: -1592
+      m_ExpandedIDs: aafaffff4cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Pipe (5)
-        m_OriginalName: Pipe (5)
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -48894
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 4
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 3}
       m_SearchString: 
@@ -602,7 +602,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 303c0000
     m_LastClickedID: 15408
-    m_ExpandedIDs: 0000000016370000
+    m_ExpandedIDs: 000000007a3a00007c3a00007e3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -630,7 +630,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000163700006c37000074370000
+    m_ExpandedIDs: ffffffff000000007a3a00007c3a00007e3a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -814,9 +814,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 20.120861, y: 5.247038, z: 22.370031}
+    m_Target: {x: -7.0444126, y: 1.7733021, z: -14.210873}
     speed: 2
-    m_Value: {x: 20.120861, y: 5.247038, z: 22.370031}
+    m_Value: {x: -7.0444126, y: 1.7733021, z: -14.210873}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -862,13 +862,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.13250566, y: -0.8344187, z: 0.48370478, w: 0.22890565}
+    m_Target: {x: -0.34540975, y: -0.6543939, z: 0.46098927, w: -0.49003124}
     speed: 2
-    m_Value: {x: 0.1327357, y: -0.8313723, z: 0.4903056, w: 0.2253921}
+    m_Value: {x: -0.34464332, y: -0.6550255, z: 0.45996544, w: -0.49050432}
   m_Size:
-    m_Target: 17.304047
+    m_Target: 59.34769
     speed: 2
-    m_Value: 16.558897
+    m_Value: 56.79205
   m_Ortho:
     m_Target: 0
     speed: 2
